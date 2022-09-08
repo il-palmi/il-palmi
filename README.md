@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ThePalm99
-- 👀 I’m interested in nanotechnologies and computing
-- 🌱 I’m currently learning python programming
+
+👀 Interested in nanotechnologies and computing
+🌱 Currently learning python and java programming
 
 <!---
 ThePalm99/ThePalm99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
